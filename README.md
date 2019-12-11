@@ -1,4 +1,4 @@
-# Bootstraper files for Sirius XI
+# Boostraper files for Sirius XI
 # TODO list
 ```markdown
 [1][Add version file][DONE]
